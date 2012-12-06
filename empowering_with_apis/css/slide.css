@@ -67,7 +67,7 @@ body {
 	margin-right: auto;
 	width: 824px !important;
 	height: 768px !important;
-	border: 1px #FFF solid;
+	/*border: 1px #FFF solid;*/
 	overflow: hidden;
 	padding: 0 100px;
 }
