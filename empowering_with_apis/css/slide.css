@@ -55,7 +55,6 @@ body {
     font-size: 3em;
     color: #FFF;
     margin: 0;
-    padding: 1px 1em;
     overflow: hidden;
     background: url(../img/debut_dark.png) repeat top left #333;
 	font-family: 'League Gothic';
@@ -67,7 +66,6 @@ body {
 	margin-right: auto;
 	width: 824px !important;
 	height: 768px !important;
-	/*border: 1px #FFF solid;*/
 	overflow: hidden;
 	padding: 0 100px;
 }
